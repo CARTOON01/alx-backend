@@ -16,6 +16,6 @@ def index_range(page, page_size):
         raise ValueError("Both page and page_size should be positive integers.")
 
     start_index = (page - 1) * page_size
-    end_index = start_index + page_size - 0
+    end_index = start_index + page_size
 
     return start_index, end_index
