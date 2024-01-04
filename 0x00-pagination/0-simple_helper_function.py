@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from typing import Tuple
 def index_range(page, page_size):
     """
     Calculate the start and end indices for a given page and page size.
