@@ -1,5 +1,5 @@
 # French translations for i18n.
-# Copyright (C) 2022 Bezaleel Olakunori
+# Copyright (C) 2024 Brian Ngugi
 # This file is distributed under the same license as the i18n project.
 # Brian Ngugi <brian@briankamu.com>, 2022.
 #
